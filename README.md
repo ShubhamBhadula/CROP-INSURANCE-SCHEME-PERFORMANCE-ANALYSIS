@@ -1,53 +1,42 @@
-Crop Insurance Scheme Performance Analysis
-Project Overview
+# 🌾 Crop Insurance Scheme Performance Analysis (PMFBY)
 
-This project analyzes the Pradhan Mantri Fasal Bima Yojana (PMFBY) using Power BI. The dashboard explores farmer participation, demographics, insured area, premium distribution, and overall scheme performance.
+## 📌 Overview
+This project analyzes the performance of the **Pradhan Mantri Fasal Bima Yojana (PMFBY)** using Power BI.  
+The dashboard provides insights into farmer participation, demographics, insured area, premium distribution, and overall scheme effectiveness at a district level.
 
-Technologies Used
+## 🚀 Features
+- Multi-page interactive Power BI dashboard  
+- Loanee vs Non-Loanee farmer analysis  
+- Gender & caste distribution insights  
+- Marginal, small, and other farmer category breakdown  
+- State-wise insured area and premium comparison  
+- Clean, professional visual design suitable for academic submission  
 
-Power BI
+## 🗂 Dataset
+District-level PMFBY dataset containing:
+- Farmer participation metrics  
+- Gender, caste & farmer category percentages  
+- Area insured & sum insured  
+- Premium details  
+- State & district identifiers  
 
-Excel
+## 🛠 Installation
+1. Download the **Power BI (.pbix)** file and the **dataset** from this repository.  
+2. Open the `.pbix` file in **Power BI Desktop`.  
+3. If Power BI asks for the file location, reconnect the dataset.  
+4. Click **Refresh** to load the visuals.
 
-Power Query
+## 📊 How to Use
+- Navigate through all dashboard pages  
+- Hover over visuals for detailed tooltips  
+- Use slicers where available  
+- Explore state-wise and demographic insights interactively  
 
-Objectives
+## 🔮 Future Enhancements
+- Add crop-wise or weather-linked datasets  
+- Integrate predictive analytics for risk assessment  
+- Automate data refresh using a pipeline  
 
-Compare loanee vs non-loanee farmer participation
-
-Analyze gender and caste distribution
-
-Study small, marginal, and other farmer categories
-
-Examine insured area and premium patterns across states
-
-Build an interactive multi-page dashboard
-
-Dataset
-
-District-level PMFBY data including:
-Farmer participation, gender %, caste %, insured area, sum insured, premium, and contribution shares.
-
-Installation
-
-Download the Power BI (.pbix) file and the dataset from this repository.
-
-Open the .pbix file in Power BI Desktop.
-
-If prompted, reconnect the dataset file and refresh the data.
-
-How to Use
-
-Navigate through the dashboard pages for insights
-
-Use slicers (where included) to filter by state or season
-
-Hover over visuals for detailed tooltips
-
-Future Scope
-
-Add crop-wise or weather-based data
-
-Include predictive analytics
-
-Automate updates with a data pipeline
+## 🙌 Acknowledgements
+Data Source: PMFBY District-Level Sample Dataset  
+Developed as part of an academic Power BI project.
